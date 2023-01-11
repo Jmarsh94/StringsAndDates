@@ -1,5 +1,5 @@
 User_date = input("Enter date: ") # March 2, 2020 # Justin Marsh CIS261 StringsAndDates
-while User_date  !="-1" :
+while User_date  !='-1' :
     tokens = User_date.split() # split by space
     month = tokens[0]
     
